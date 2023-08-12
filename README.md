@@ -47,8 +47,8 @@ A list of useful open-source Unity projects in alphabetical order.
 - [Red Runner](https://github.com/BayatGames/RedRunner) — A 2D complete platformer game.
 
 ### Puzzle
-- [Nodulus](https://github.com/Hyperparticle/nodulus) — A 2D complete puzzle game.
-- [Flame Keeper](https://github.com/Hyperparticle/nodulus) — A 3D puzzle platformer game.
+- [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game.
+- [Flame Keeper](https://github.com/alex-cherkaski/Flame-Keeper) — A 3D puzzle platformer game.
 
 ### Tower Defense
 - [Temple Trashers](https://github.com/hackerspace-ntnu/Temple-Trashers) — A 2D co-op tower defense game.
