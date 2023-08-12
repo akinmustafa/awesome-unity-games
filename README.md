@@ -1,5 +1,5 @@
-## Awesome Unity Games
-Some useful and great open source Unity projects listed in alphabetical order.
+# Awesome Unity Games
+Some useful open-source Unity projects listed in alphabetical order.
 
 ### Contents
 
