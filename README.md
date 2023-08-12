@@ -12,7 +12,7 @@ A list of useful open-source Unity projects in alphabetical order.
 - [Platformer](#platformer)
 - [Puzzle](#puzzle)
 - [Tower Defense](#tower-defense)
-- [Vehicles & Racing](#vehicles-&-racing)
+- [Vehicles & Racing](#vehicles--racing)
 
 ### Official Unity Templates
 - [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for URP (Universal Render Pipeline).
