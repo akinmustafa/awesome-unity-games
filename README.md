@@ -24,7 +24,7 @@ A list of useful open-source Unity projects in alphabetical order.
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity.
 
 ### Arcade
-- [Delivery Boy](https://github.com/flo-wolf/Flip-Fall) — A 2D fast-paced mobile arcade game.
+- [Delivery Boy](https://github.com/phamson02/DeliveryBoy-UnityGame) — A 2D fast-paced mobile arcade game.
 - [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game built with Unity DOTS.
 - [Flip Fall](https://github.com/flo-wolf/Flip-Fall) — A mobile arcade game.
 
