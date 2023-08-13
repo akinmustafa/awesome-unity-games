@@ -19,6 +19,7 @@ A list of useful open-source Unity projects in alphabetical order.
 - [ECS Network Racing](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample) — ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices.
 - [FPS Sample](https://github.com/Unity-Technologies/FPSSample) — A first person multiplayer shooter game.
 - [Spaceship Demo](https://github.com/Unity-Technologies/SpaceshipDemo) — AAA playable first person demo created as an example for HDRP (High Definiton Render Pipeline).
+- [Unity Royale](https://github.com/ciro-unity/UnityRoyale-Public) — A tower defence game played with cards similar to Supercell's Clash Royale.
 
 ### Action-Adventure
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity.
