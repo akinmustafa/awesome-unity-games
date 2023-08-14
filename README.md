@@ -6,6 +6,7 @@ A list of useful open-source Unity projects in alphabetical order.
 - [Official Unity Templates](#official-unity-templates)
 - [Action-Adventure](#action-adventure)
 - [Arcade](#arcade)
+- [Board Games](#board-games)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
 - [Survival](#survival)
@@ -29,14 +30,19 @@ A list of useful open-source Unity projects in alphabetical order.
 - [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game built with Unity DOTS.
 - [Flip Fall](https://github.com/flo-wolf/Flip-Fall) — A mobile arcade game.
 
+### Board Games
+- [Blackjack](https://github.com/joaokucera/unity-blackjack) — Blackjack card game made with Unity.
+- [Card Game](https://github.com/exewin/card-game) — A card game made with Unity.
+- [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator made with Unity.
+
 ### Sandbox
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game.
 
 ### Shooter
 - [Isometric Shooter](https://github.com/tadadosii/2DTopDownIsometricShooterStudy) — A 2D isometric shooter game.
-- [Top-Down-Shooter](https://github.com/tarush-r/Top-Down-Shooter-Game) — A 2D top down shooter game with random dungeon generation.
-- [Team-Capture](https://github.com/Voltstro-Studios/Team-Capture) — A 3D multiplayer FPS game.
+- [Top Down Shooter](https://github.com/tarush-r/Top-Down-Shooter-Game) — A 2D top down shooter game with random dungeon generation.
+- [Team Capture](https://github.com/Voltstro-Studios/Team-Capture) — A 3D multiplayer FPS game.
 
 ### Survival
 - [Star Travel](https://github.com/Victormaa/Star-Travel) — A 3D space themed open world survival game.
@@ -58,6 +64,10 @@ A list of useful open-source Unity projects in alphabetical order.
 ### Vehicles & Racing
 - [Arcade Vehicle Controller](https://github.com/mrgarcialuigi/Arcade-Vehicle-Controller) — A 3D arcade vehicle controller template.
 - [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone made with Unity.
+- [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart Racing clone made with Unity.
 
 ### Something Wrong?
 Feel free to open an issue or let me know on Discord.
+
+### Supporting
+Leave a star on the repository if you want to support my work and appreciate the work put into this repository.
