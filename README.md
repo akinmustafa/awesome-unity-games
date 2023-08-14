@@ -1,6 +1,9 @@
 # Awesome Unity Games 🎮
 A list of useful open-source Unity projects in alphabetical order.
 
+> **Warning**
+> Some projects may not have a license or their licenses may have been changed or removed. So you have to keep track of the licenses yourself if you want to use the content.
+
 ### Contents
 
 - [Official Unity Templates](#official-unity-templates)
