@@ -1,5 +1,5 @@
 # Awesome Unity Games 🎮
-A list of useful open-source Unity projects in alphabetical order.
+A curated list of useful open-source Unity projects in alphabetical order.
 
 > **Warning**
 > Some projects may not have a license or their licenses may have been changed or removed. So you have to keep track of the licenses yourself if you want to use the content.
@@ -10,6 +10,7 @@ A list of useful open-source Unity projects in alphabetical order.
 - [Action-Adventure](#action-adventure)
 - [Arcade](#arcade)
 - [Board Games](#board-games)
+- [Fighting](#fighting)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
 - [Survival](#survival)
@@ -37,6 +38,9 @@ A list of useful open-source Unity projects in alphabetical order.
 - [Blackjack](https://github.com/joaokucera/unity-blackjack) — Blackjack card game made with Unity.
 - [Card Game](https://github.com/exewin/card-game) — A card game made with Unity.
 - [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator made with Unity.
+
+### Fighting
+- [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates.
 
 ### Sandbox
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
