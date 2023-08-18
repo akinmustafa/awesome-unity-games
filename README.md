@@ -33,11 +33,13 @@ A curated list of useful open-source Unity projects in alphabetical order.
 - [Delivery Boy](https://github.com/phamson02/DeliveryBoy-UnityGame) — A 2D fast-paced mobile arcade game.
 - [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game built with Unity DOTS.
 - [Flip Fall](https://github.com/flo-wolf/Flip-Fall) — A mobile arcade game.
+- [Tetris](https://github.com/Mukarillo/UnityTetris) — A Tetris clone made with Unity.
 
 ### Board Games
-- [Blackjack](https://github.com/joaokucera/unity-blackjack) — Blackjack card game made with Unity.
-- [Card Game](https://github.com/exewin/card-game) — A card game made with Unity.
+- [Blackjack](https://github.com/joaokucera/unity-blackjack) — A blackjack card game.
+- [Card Game](https://github.com/exewin/card-game) — A card game similar to Astral Tournament.
 - [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator made with Unity.
+- [Chess](https://github.com/ErkrodC/UnityChess) — A 3D chess game made with Unity.
 
 ### Fighting
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates.
@@ -77,4 +79,4 @@ A curated list of useful open-source Unity projects in alphabetical order.
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Leave a star on the repository if you want to support my work and appreciate the work put into this repository.
+Leave a star on the repository if you want to support my work and appreciate the work put into this repository. I don't want anything else.
