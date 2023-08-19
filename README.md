@@ -37,9 +37,9 @@ A curated list of useful open-source Unity projects in alphabetical order.
 
 ### Board Games
 - [Blackjack](https://github.com/joaokucera/unity-blackjack) — A blackjack card game.
-- [Card Game](https://github.com/exewin/card-game) — A card game similar to Astral Tournament.
-- [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator made with Unity.
-- [Chess](https://github.com/ErkrodC/UnityChess) — A 3D chess game made with Unity.
+- [Card Game](https://github.com/exewin/card-game) — A card game.
+- [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator.
+- [Chess](https://github.com/ErkrodC/UnityChess) — A 3D chess made with Unity.
 
 ### Fighting
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates.
@@ -75,11 +75,11 @@ A curated list of useful open-source Unity projects in alphabetical order.
 
 ### Vehicles & Racing
 - [Arcade Vehicle Controller](https://github.com/mrgarcialuigi/Arcade-Vehicle-Controller) — A 3D arcade vehicle controller template.
-- [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone made with Unity.
-- [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart Racing clone made with Unity.
+- [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone.
+- [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart clone.
 
 ### Something Wrong?
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Leave a star on the repository if you appreciate the work put into this repository.
+Leave a star if you appreciate the work put into this repository.
