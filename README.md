@@ -45,6 +45,7 @@ A curated list of useful open-source Unity projects in alphabetical order.
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates.
 
 ### Sandbox
+- [Blocktest](https://github.com/blocktest-game/blocktest) — A 2D sandbox exploration and creation game.
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game.
 
@@ -61,12 +62,14 @@ A curated list of useful open-source Unity projects in alphabetical order.
 
 ### Platformer
 - [Red Runner](https://github.com/BayatGames/RedRunner) — A 2D complete platformer game.
+- [The Lost Forest](https://github.com/elifyener/TheLostForest) — A 2D platformer game with traditional gameplay.
 
 ### Puzzle
 - [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game.
 - [Flame Keeper](https://github.com/alex-cherkaski/Flame-Keeper) — A 3D puzzle platformer game.
 
 ### Tower Defense
+- [3D Tower Defense](https://github.com/Mohammed-Benotmane/Tower-Defense-Game) — A 3D simple tower defense game.
 - [Temple Trashers](https://github.com/hackerspace-ntnu/Temple-Trashers) — A 2D co-op tower defense game.
 - [Tower Defense](https://github.com/JanWalsh91/tower_defense) — A 2D tower defense game.
 
@@ -79,4 +82,4 @@ A curated list of useful open-source Unity projects in alphabetical order.
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Leave a star on the repository if you want to support my work and appreciate the work put into this repository. I don't want anything else.
+Leave a star on the repository if you appreciate the work put into this repository.
