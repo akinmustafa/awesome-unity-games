@@ -82,10 +82,10 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Virtual Reality
 - [BricksVR](https://github.com/d12/bricksvr-game) — A mirror of the BricksVR, multiplayer sandbox game available on Steam and the Oculus store.
-- [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Occulus Quest.
+- [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Oculus Quest.
 
 ### Why?
-The reason this repository exists is the lack of open source Unity projects and the demand for them. I created a list so everything is one place, easy for starters or people just want to get some ideas.
+The reason this repository exists is the lack of open source Unity projects and the demand for them. I created a list so everything is one place, easy for starters or people who just want to get some ideas.
 
 ### Something Wrong?
 Feel free to open an issue or let me know on Discord.
