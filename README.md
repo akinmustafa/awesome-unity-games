@@ -33,7 +33,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Arcade
 - [Delivery Boy](https://github.com/phamson02/DeliveryBoy-UnityGame) — A 2D fast-paced mobile arcade game.
-- [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game built with Unity DOTS.
+- [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game (Arkanoid) built with Unity DOTS.
 - [Flip Fall](https://github.com/flo-wolf/Flip-Fall) — A mobile arcade game.
 - [Tetris](https://github.com/Mukarillo/UnityTetris) — A Tetris clone made with Unity.
 
@@ -91,4 +91,4 @@ The reason this repository exists is the lack of open source Unity projects and 
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Contributions are welcome and you can also leave a star if you appreciate the work done in this repository...
+Contributions are welcome, you can also leave a star if you appreciate the work done in this repository.
