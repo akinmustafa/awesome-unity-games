@@ -91,4 +91,4 @@ The reason this repository exists is the lack of open source Unity projects and 
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Contributions are welcome also you can leave a star if you appreciate the work put into this repository.
+Contributions are welcome and you can also leave a star if you appreciate the work done in this repository...
