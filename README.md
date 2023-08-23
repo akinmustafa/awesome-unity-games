@@ -1,10 +1,10 @@
 # Awesome Unity Games 🎮
-A curated list of useful open-source Unity projects in alphabetical order.
+A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") projects in alphabetical order.
+
+### Contents
 
 > **Warning**
 > Some projects may not have a license or their licenses may have been changed or removed. So you have to keep track of the licenses yourself if you want to use the content.
-
-### Contents
 
 - [Official Unity Templates](#official-unity-templates)
 - [Action-Adventure](#action-adventure)
@@ -18,9 +18,11 @@ A curated list of useful open-source Unity projects in alphabetical order.
 - [Puzzle](#puzzle)
 - [Tower Defense](#tower-defense)
 - [Vehicles & Racing](#vehicles--racing)
+- [Virtual Reality](#virtual-reality)
 
 ### Official Unity Templates
 - [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for URP (Universal Render Pipeline).
+- [Boss Room](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) — A fully functional co-op multiplayer RPG made with Unity Netcode.
 - [ECS Network Racing](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample) — ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices.
 - [FPS Sample](https://github.com/Unity-Technologies/FPSSample) — A first person multiplayer shooter game.
 - [Spaceship Demo](https://github.com/Unity-Technologies/SpaceshipDemo) — AAA playable first person demo created as an example for HDRP (High Definiton Render Pipeline).
@@ -37,7 +39,7 @@ A curated list of useful open-source Unity projects in alphabetical order.
 
 ### Board Games
 - [Blackjack](https://github.com/joaokucera/unity-blackjack) — A blackjack card game.
-- [Card Game](https://github.com/exewin/card-game) — A card game.
+- [Card Game](https://github.com/exewin/card-game) — A card game tribute to [Astral Tournament](https://store.steampowered.com/app/2160780/Astral_Tournament__a_prequel_of_the_Astral_Masters/ "A famous card game.").
 - [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator.
 - [Chess](https://github.com/ErkrodC/UnityChess) — A 3D chess made with Unity.
 
@@ -78,8 +80,15 @@ A curated list of useful open-source Unity projects in alphabetical order.
 - [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone.
 - [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart clone.
 
+### Virtual Reality
+- [BricksVR](https://github.com/d12/bricksvr-game) — A mirror of the BricksVR, multiplayer sandbox game available on Steam and the Oculus store.
+- [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Occulus Quest.
+
+### Why?
+The reason this repository exists is the lack of open source Unity projects and the demand for them. I created a list so everything is one place, easy for starters or people just want to get some ideas.
+
 ### Something Wrong?
 Feel free to open an issue or let me know on Discord.
 
 ### Supporting
-Leave a star if you appreciate the work put into this repository.
+Contributions are welcome also you can leave a star if you appreciate the work put into this repository.
