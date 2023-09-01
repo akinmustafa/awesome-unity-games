@@ -1,5 +1,5 @@
 # Awesome Unity Games 🎮
-A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") projects in alphabetical order.
+A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
 
 ### Contents
 
@@ -89,7 +89,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 The reason this repository exists is the lack of open source Unity projects and the demand for them. I created a list so everything is in one place, easy for starters or people who just want to get some ideas.
 
 ### Something Wrong?
-Feel free to open an issue or let me know on Discord.
+Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
 
 ### Supporting
 Contributions are welcome, you can also leave a star if you appreciate the work done in this repository.
