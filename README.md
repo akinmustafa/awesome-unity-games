@@ -80,6 +80,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Arcade Vehicle Controller](https://github.com/mrgarcialuigi/Arcade-Vehicle-Controller) — A 3D arcade vehicle controller template.
 - [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone.
 - [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart clone.
+- [Turbo Track 2D](https://github.com/h8man/TurboTrack2D) — A small prototype of arcade style racing game with polygon projection technique.
 
 ### Virtual Reality
 - [BricksVR](https://github.com/d12/bricksvr-game) — A mirror of the BricksVR, multiplayer sandbox game available on Steam and the Oculus store.
