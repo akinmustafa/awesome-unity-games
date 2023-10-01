@@ -29,6 +29,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Unity Royale](https://github.com/ciro-unity/UnityRoyale-Public) — A tower defence game played with cards similar to Supercell's Clash Royale.
 
 ### Action-Adventure
+- [Diablerie](https://github.com/mofr/Diablerie) — Diablo II reimplementation on Unity.
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity.
 
 ### Arcade
