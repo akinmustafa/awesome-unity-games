@@ -68,9 +68,9 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [The Lost Forest](https://github.com/elifyener/TheLostForest) — A 2D platformer game with traditional gameplay.
 
 ### Puzzle
-- [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game.
 - [Flame Keeper](https://github.com/alex-cherkaski/Flame-Keeper) — A 3D puzzle platformer game.
 - [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous match 3 game made with Unity.
+- [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game.
 
 ### Tower Defense
 - [3D Tower Defense](https://github.com/Mohammed-Benotmane/Tower-Defense-Game) — A 3D simple tower defense game.
