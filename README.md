@@ -1,10 +1,10 @@
 # Awesome Unity Games 🎮
 A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
 
-### Contents
-
 > **Warning**
-> Some projects may not have a license or their licenses may have been changed or removed. So you have to keep track of the licenses yourself if you want to use the content.
+> Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
+
+### Contents
 
 - [Official Unity Templates](#official-unity-templates)
 - [Action-Adventure](#action-adventure)
@@ -88,10 +88,10 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Oculus Quest.
 
 ### Why?
-The reason why this repository exists is the lack of open source Unity projects and the demand for them. I made this list so everything is in one place.
+This repository exists due to a scarcity of open-source Unity projects and the growing demand for them. I made this list to centralize everything in one place.
 
 ### Something Wrong?
 Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
 
 ### Supporting
-Contributions are welcome, you can also leave a star if you appreciate the work done in this repository.
+Contributions and suggestions are welcome, you can also leave a star if you appreciate the work done in this repository.
