@@ -1,7 +1,7 @@
 # Awesome Unity Games 🎮
 A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
 
-> **Warning**
+> [!WARNING]
 > Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
 
 ### Contents
@@ -78,9 +78,9 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Tower Defense](https://github.com/JanWalsh91/tower_defense) — A 2D tower defense game.
 
 ### Vehicles & Racing
-- [Arcade Vehicle Controller](https://github.com/mrgarcialuigi/Arcade-Vehicle-Controller) — A 3D arcade vehicle controller template.
 - [Hill Climb Racing Clone](https://github.com/stevecox1964/Happy_Wheels_Clone) — A Hill Climb Racing clone.
 - [Mario Kart Clone](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) — A Mario Kart clone.
+- [PolyRace](https://github.com/vthem/PolyRace) — Low poly futuristic racing game.
 - [Turbo Track 2D](https://github.com/h8man/TurboTrack2D) — A small prototype of arcade style racing game with polygon projection technique.
 
 ### Virtual Reality
