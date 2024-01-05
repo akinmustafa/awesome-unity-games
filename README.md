@@ -38,6 +38,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity.
 
 ### Arcade
+- [Amazing Track](https://github.com/EugenyN/AmazingTrack) — ZigZag like endless arcade game developed with LeoEcsLite and Zenject.
 - [Delivery Boy](https://github.com/phamson02/DeliveryBoy-UnityGame) — A 2D fast-paced mobile arcade game.
 - [DOTS Arkanoid](https://github.com/EugenyN/DOTS-Arkanoid) — Clone of the classic arcade game (Arkanoid) built with Unity DOTS.
 - [Flip Fall](https://github.com/flo-wolf/Flip-Fall) — A mobile arcade game.
@@ -54,7 +55,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Sandbox
 - [Blocktest](https://github.com/blocktest-game/blocktest) — A 2D sandbox exploration and creation game.
-- [Minartis](https://github.com/akinmustafa/minartis) — A WIP First person sandbox game with modding support..
+- [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support..
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game.
 
@@ -75,7 +76,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Puzzle
 - [Flame Keeper](https://github.com/alex-cherkaski/Flame-Keeper) — A 3D puzzle platformer game.
-- [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous match 3 game made with Unity.
+- [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous Match 3 game made with Unity.
 - [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game.
 
 ### Tower Defense
