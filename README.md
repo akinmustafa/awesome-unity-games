@@ -4,8 +4,9 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 > [!WARNING]
 > Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
 
-### Contents
-
+<details>
+  <summary><h3>Contents</h3></summary>
+  
 - [Official Unity Templates](#official-unity-templates)
 - [Action-Adventure](#action-adventure)
 - [Arcade](#arcade)
@@ -19,6 +20,10 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Tower Defense](#tower-defense)
 - [Vehicles & Racing](#vehicles--racing)
 - [Virtual Reality](#virtual-reality)
+- [Something Wrong](#something-wrong)
+- [Supporting](#supporting)
+</details>
+
 
 ### Official Unity Templates
 - [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for URP (Universal Render Pipeline).
@@ -49,6 +54,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Sandbox
 - [Blocktest](https://github.com/blocktest-game/blocktest) — A 2D sandbox exploration and creation game.
+- [Minartis](https://github.com/akinmustafa/minartis) — A WIP First person sandbox game with modding support..
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game.
 
@@ -86,9 +92,6 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 ### Virtual Reality
 - [BricksVR](https://github.com/d12/bricksvr-game) — A mirror of the BricksVR, multiplayer sandbox game available on Steam and the Oculus store.
 - [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Oculus Quest.
-
-### Why?
-This repository exists due to a scarcity of open-source Unity projects and the growing demand for them. I made this list to centralize everything in one place.
 
 ### Something Wrong?
 Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
