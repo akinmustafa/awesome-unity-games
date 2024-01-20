@@ -55,7 +55,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Sandbox
 - [Blocktest](https://github.com/blocktest-game/blocktest) — A 2D sandbox exploration and creation game.
-- [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support..
+- [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support.
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone.
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game.
 
