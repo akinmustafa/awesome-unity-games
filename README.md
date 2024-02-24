@@ -12,6 +12,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Arcade](#arcade)
 - [Board Games](#board-games)
 - [Fighting](#fighting)
+- [Runner](#runner)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
 - [Survival](#survival)
@@ -20,7 +21,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Tower Defense](#tower-defense)
 - [Vehicles & Racing](#vehicles--racing)
 - [Virtual Reality](#virtual-reality)
-- [Something Wrong](#something-wrong)
+- [Something Wrong?](#something-wrong)
 - [Supporting](#supporting)
 </details>
 
@@ -36,6 +37,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 ### Action-Adventure
 - [Diablerie](https://github.com/mofr/Diablerie) — Diablo II reimplementation on Unity.
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity.
+- [Uncertainty](https://github.com/Null-References/Uncertainty) — A 3D action-adventure space-shooter game.
 
 ### Arcade
 - [Amazing Track](https://github.com/EugenyN/AmazingTrack) — ZigZag like endless arcade game developed with LeoEcsLite and Zenject.
@@ -52,6 +54,9 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Fighting
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates.
+
+### Runner
+- [Awesome Runner](https://github.com/VladimirPirozhenko/AwesomeRunner) — A 3D endless runner game.
 
 ### Sandbox
 - [Blocktest](https://github.com/blocktest-game/blocktest) — A 2D sandbox exploration and creation game.
@@ -71,6 +76,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Zombie Survival 2D](https://github.com/mapisarek/Survival_Zombie_2D) — A 2D zombie survival game.
 
 ### Platformer
+- [Kailius](https://github.com/Walkator/kailius) — A mobile ready 2D pixel platformer.
 - [Red Runner](https://github.com/BayatGames/RedRunner) — A 2D complete platformer game.
 - [The Lost Forest](https://github.com/elifyener/TheLostForest) — A 2D platformer game with traditional gameplay.
 
