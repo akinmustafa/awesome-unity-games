@@ -104,4 +104,4 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
 
 ### Supporting
-Contributions and suggestions are welcome, you can also leave a star if you appreciate the work done in this repository.
+Contributions and suggestions are welcomed; you can also leave a star if you appreciate the work done in this repository.
