@@ -1,9 +1,9 @@
-# Awesome Unity Games 🎮
+## Awesome Unity Games
 A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
 
 > [!WARNING]
 > Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
-
+> 
 <details>
   <summary><h3>Contents</h3></summary>
   
@@ -24,7 +24,6 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Something Wrong?](#something-wrong)
 - [Supporting](#supporting)
 </details>
-
 
 ### Official Unity Templates
 - [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for URP (Universal Render Pipeline). ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/BoatAttack) 
@@ -74,6 +73,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Survival RPG Kit](https://github.com/leandrovieiraa/FreeSurvivalRPGKit) — A free 3D survival RPG kit with lots of features. ![GitHub Repo stars](https://img.shields.io/github/stars/leandrovieiraa/FreeSurvivalRPGKit)
 - [Zombieland](https://github.com/ramirak/Zombieland-FPS-survival-game-with-Unity) — A 3D FPS zombie apocalyptic survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/ramirak/Zombieland-FPS-survival-game-with-Unity)
 - [Zombie Survival 2D](https://github.com/mapisarek/Survival_Zombie_2D) — A 2D zombie survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/mapisarek/Survival_Zombie_2D)
+- [Zomboid Survival](https://github.com/saivittalb/zomboid-survival) — A FPS zombie survival game with AI navigation. ![GitHub Repo stars](https://img.shields.io/github/stars/saivittalb/zomboid-survival)
 
 ### Platformer
 - [Kailius](https://github.com/Walkator/kailius) — A mobile ready 2D pixel platformer. ![GitHub Repo stars](https://img.shields.io/github/stars/Walkator/kailius)
