@@ -1,28 +1,36 @@
-## Awesome Unity Games
+## Awesome Unity Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub Repo stars](https://img.shields.io/github/stars/akinmustafa/awesome-unity-games)
+
 A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
+
+- [Something Wrong?](#something-wrong)
+- [Supporting](#supporting)
+
 
 > [!WARNING]
 > Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
 > 
+
+<hr>
+
 <details>
-  <summary><h3>Contents</h3></summary>
+  <summary><h3>Categories</h3></summary>
   
 - [Official Unity Templates](#official-unity-templates)
 - [Action-Adventure](#action-adventure)
 - [Arcade](#arcade)
 - [Board Games](#board-games)
+- [Cooking](#cooking)
 - [Fighting](#fighting)
 - [Runner](#runner)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
+- [Simulation](#simulation)
 - [Survival](#survival)
 - [Platformer](#platformer)
 - [Puzzle](#puzzle)
 - [Tower Defense](#tower-defense)
 - [Vehicles & Racing](#vehicles--racing)
 - [Virtual Reality](#virtual-reality)
-- [Something Wrong?](#something-wrong)
-- [Supporting](#supporting)
 </details>
 
 ### Official Unity Templates
@@ -38,6 +46,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Diablerie](https://github.com/mofr/Diablerie) — Diablo II reimplementation on Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/mofr/Diablerie)
 - [GTA San Andreas Clone](https://github.com/GTA-ASM/SanAndreasUnity) — A GTA San Andreas clone made with Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/GTA-ASM/SanAndreasUnity)
 - [Uncertainty](https://github.com/Null-References/Uncertainty) — A 3D action-adventure space-shooter game. ![GitHub Repo stars](https://img.shields.io/github/stars/Null-References/Uncertainty)
+- [Warcraft Arena](https://github.com/Reinisch/Warcraft-Arena-Unity) — World of Warcraft client-server combat system implementation with [Photon Bolt](https://doc.photonengine.com/bolt/current/getting-started/overview). ![GitHub Repo stars](https://img.shields.io/github/stars/Reinisch/Warcraft-Arena-Unity)
 
 ### Arcade
 - [Amazing Track](https://github.com/EugenyN/AmazingTrack) — ZigZag like endless arcade game developed with LeoEcsLite and Zenject. ![GitHub Repo stars](https://img.shields.io/github/stars/EugenyN/AmazingTrack)
@@ -51,6 +60,9 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Card Game](https://github.com/exewin/card-game) — A card game tribute to [Astral Tournament](https://store.steampowered.com/app/2160780/Astral_Tournament__a_prequel_of_the_Astral_Masters/ "A famous card game."). ![GitHub Repo stars](https://img.shields.io/github/stars/exewin/card-game)
 - [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) — A card game simulator. ![GitHub Repo stars](https://img.shields.io/github/stars/finol-digital/Card-Game-Simulator)
 - [Chess](https://github.com/ErkrodC/UnityChess) — A 3D chess made with Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/ErkrodC/UnityChess)
+
+### Cooking
+- [Undercooked](https://github.com/daltonbr/Undercooked) — A fan made cooking game inspired by [Overcooked](https://store.steampowered.com/app/448510/Overcooked/). ![GitHub Repo stars](https://img.shields.io/github/stars/daltonbr/Undercooked)
 
 ### Fighting
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates. ![GitHub Repo stars](https://img.shields.io/github/stars/kidagine/Darklings-FightingGame)
@@ -67,6 +79,11 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 - [Isometric Shooter](https://github.com/tadadosii/2DTopDownIsometricShooterStudy) — A 2D isometric shooter game. ![GitHub Repo stars](https://img.shields.io/github/stars/tadadosii/2DTopDownIsometricShooterStudy)
 - [Top Down Shooter](https://github.com/tarush-r/Top-Down-Shooter-Game) — A 2D top down shooter game with random dungeon generation. ![GitHub Repo stars](https://img.shields.io/github/stars/tarush-r/Top-Down-Shooter-Game)
 - [Team Capture](https://github.com/Voltstro-Studios/Team-Capture) — A 3D multiplayer FPS game. ![GitHub Repo stars](https://img.shields.io/github/stars/Voltstro-Studios/Team-Capture)
+- [Vampire Survivors Clone](https://github.com/matthiasbroske/VampireSurvivorsClone) — A [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) inspired mobile game. ![GitHub Repo stars](https://img.shields.io/github/stars/matthiasbroske/VampireSurvivorsClone)
+
+### Simulation
+- [FyWorld](https://github.com/Fy-/FyWorld) — A discontinued base-building and simulation game. ![GitHub Repo stars](https://img.shields.io/github/stars/Fy-/FyWorld)
+- [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars) — Game-like agent based economy simulator. ![GitHub Repo stars](https://img.shields.io/github/stars/Nashet/Prosperity-Wars)
 
 ### Survival
 - [Star Travel](https://github.com/Victormaa/Star-Travel) — A 3D space themed open world survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/Victormaa/Star-Travel)
@@ -82,6 +99,7 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 
 ### Puzzle
 - [Flame Keeper](https://github.com/alex-cherkaski/Flame-Keeper) — A 3D puzzle platformer game. ![GitHub Repo stars](https://img.shields.io/github/stars/alex-cherkaski/Flame-Keeper)
+- [Flipon Tiny](https://github.com/valryon/flipon-tiny) — An open-source port of [Flipon](https://www.flipon.net/), a fast paced match 3 game. ![GitHub Repo stars](https://img.shields.io/github/stars/valryon/flipon-tiny)
 - [Match 3 Clone](https://github.com/daltonbr/Match3) — Famous Match 3 game made with Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/daltonbr/Match3)
 - [Nodulus](https://github.com/Hyperparticle/nodulus) — A 3D complete puzzle game. ![GitHub Repo stars](https://img.shields.io/github/stars/Hyperparticle/nodulus)
 
@@ -105,3 +123,6 @@ Feel free to open an issue or let me know on [Discord](https://discord.com/users
 
 ### Supporting
 Contributions and suggestions are welcomed; you can also leave a star if you appreciate the work done in this repository.
+
+### License
+This repository is licensed under the [CC0-1.0](https://github.com/akinmustafa/awesome-unity-games/blob/main/LICENSE) license.
