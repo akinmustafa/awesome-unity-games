@@ -34,12 +34,12 @@ A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engi
 </details>
 
 ### Official Unity Templates
-- [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for URP (Universal Render Pipeline). ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/BoatAttack) 
+- [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) — A boat racing game created as an example for [URP](https://unity.com/srp/universal-render-pipeline). ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/BoatAttack) 
 - [Boss Room](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) — A fully functional co-op multiplayer RPG made with Unity Netcode. ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/com.unity.multiplayer.samples.coop) 
 - [ECS Network Racing](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample) — ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices. ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/ECS-Network-Racing-Sample)
 - [FPS Sample](https://github.com/Unity-Technologies/FPSSample) — A first person multiplayer shooter game. ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/FPSSample)
 - [Megacity Metro](https://github.com/Unity-Technologies/megacity-metro) — A multiplayer shooter game that can support 128+ players simultaneously with [UGS](https://unity.com/solutions/gaming-services) included. ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/megacity-metro)
-- [Spaceship Demo](https://github.com/Unity-Technologies/SpaceshipDemo) — AAA playable first person demo created as an example for HDRP (High Definiton Render Pipeline). ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/SpaceshipDemo)
+- [Spaceship Demo](https://github.com/Unity-Technologies/SpaceshipDemo) — AAA playable first person demo created as an example for [HDRP](https://unity.com/srp/high-definition-render-pipeline). ![GitHub Repo stars](https://img.shields.io/github/stars/Unity-Technologies/SpaceshipDemo)
 - [Unity Royale](https://github.com/ciro-unity/UnityRoyale-Public) — A tower defence game played with cards similar to Supercell's Clash Royale. ![GitHub Repo stars](https://img.shields.io/github/stars/ciro-unity/UnityRoyale-Public)
 
 ### Action-Adventure
