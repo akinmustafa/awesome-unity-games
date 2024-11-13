@@ -1,13 +1,13 @@
-## Awesome Unity Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub Repo stars](https://img.shields.io/github/stars/akinmustafa/awesome-unity-games)
+## Awesome Unity Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of useful open-source [Unity](https://unity.com/ "Unity Game Engine") games in alphabetical order.
+A curated list of useful open-source Unity games in alphabetical order.
 
 - [Something Wrong?](#something-wrong)
 - [Supporting](#supporting)
 
 
 > [!WARNING]
-> Some projects might lack a license, or their licenses could be altered or removed. Therefore, it becomes essential to independently check and manage the licenses if you intend to use the content.
+> Some projects might lack a license, or their licenses could have been changed or removed. Make sure to check and manage the licenses if you intend to use the content.
 > 
 
 <hr>
