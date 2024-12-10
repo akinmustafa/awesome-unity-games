@@ -74,6 +74,7 @@ A curated list of useful open-source Unity games in alphabetical order.
 - [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support. ![GitHub Repo stars](https://img.shields.io/github/stars/akinmustafa/minartis)
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone. ![GitHub Repo stars](https://img.shields.io/github/stars/stalomeow/MinecraftClone-Unity)
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenHogwarts/hogwarts)
+- [Voxel Game](https://github.com/savatkinv/VoxelGame) - Open source voxel game template made in Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/VoxelGame)
 
 ### Shooter
 - [Isometric Shooter](https://github.com/tadadosii/2DTopDownIsometricShooterStudy) — A 2D isometric shooter game. ![GitHub Repo stars](https://img.shields.io/github/stars/tadadosii/2DTopDownIsometricShooterStudy)
