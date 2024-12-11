@@ -74,7 +74,7 @@ A curated list of useful open-source Unity games in alphabetical order.
 - [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support. ![GitHub Repo stars](https://img.shields.io/github/stars/akinmustafa/minartis)
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone. ![GitHub Repo stars](https://img.shields.io/github/stars/stalomeow/MinecraftClone-Unity)
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenHogwarts/hogwarts)
-- [Voxel Game](https://github.com/savatkinv/VoxelGame) - Open-source voxel game template ![GitHub Repo stars](https://img.shields.io/github/stars/savatkinv/VoxelGame)
+- [Voxel Game](https://github.com/savatkinv/VoxelGame) - 3D voxel game template. ![GitHub Repo stars](https://img.shields.io/github/stars/savatkinv/VoxelGame)
 
 ### Shooter
 - [Isometric Shooter](https://github.com/tadadosii/2DTopDownIsometricShooterStudy) — A 2D isometric shooter game. ![GitHub Repo stars](https://img.shields.io/github/stars/tadadosii/2DTopDownIsometricShooterStudy)
@@ -89,7 +89,6 @@ A curated list of useful open-source Unity games in alphabetical order.
 ### Survival
 - [Star Travel](https://github.com/Victormaa/Star-Travel) — A 3D space themed open world survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/Victormaa/Star-Travel)
 - [Survival RPG Kit](https://github.com/leandrovieiraa/FreeSurvivalRPGKit) — A free 3D survival RPG kit with lots of features. ![GitHub Repo stars](https://img.shields.io/github/stars/leandrovieiraa/FreeSurvivalRPGKit)
-- [Zombieland](https://github.com/ramirak/Zombieland-FPS-survival-game-with-Unity) — A 3D FPS zombie apocalyptic survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/ramirak/Zombieland-FPS-survival-game-with-Unity)
 - [Zombie Survival 2D](https://github.com/mapisarek/Survival_Zombie_2D) — A 2D zombie survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/mapisarek/Survival_Zombie_2D)
 - [Zomboid Survival](https://github.com/saivittalb/zomboid-survival) — A FPS zombie survival game with AI navigation. ![GitHub Repo stars](https://img.shields.io/github/stars/saivittalb/zomboid-survival)
 
