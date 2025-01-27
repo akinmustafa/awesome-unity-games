@@ -2,9 +2,10 @@
 
 A curated list of useful open-source Unity games in alphabetical order.
 
-- [Something Wrong?](#something-wrong)
-- [Supporting](#supporting)
+#### Supporting
+Contributions are welcomed. Please ensure that the repository has a license and provides relevant images or videos demonstrating the project. You can also leave a star if you appreciate the work done in this repository.
 
+Similar list for Godot Engine: [Awesome Godot Games](https://github.com/akinmustafa/awesome-godot-games).
 
 > [!WARNING]
 > Some projects might lack a license, or their licenses could have been changed or removed. Make sure to check and manage the licenses if you intend to use the content.
@@ -21,6 +22,7 @@ A curated list of useful open-source Unity games in alphabetical order.
 - [Board Games](#board-games)
 - [Cooking](#cooking)
 - [Fighting](#fighting)
+- [RPG](#rpg)
 - [Runner](#runner)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
@@ -67,11 +69,13 @@ A curated list of useful open-source Unity games in alphabetical order.
 ### Fighting
 - [Darklings](https://github.com/kidagine/Darklings-FightingGame) — A 2D fighting game with periodic updates. ![GitHub Repo stars](https://img.shields.io/github/stars/kidagine/Darklings-FightingGame)
 
+### RPG
+- [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) — Open source recreation of Elder Scrolls II: Daggerfall. ![GitHub Repo stars](https://img.shields.io/github/stars/Interkarma/daggerfall-unity)
+
 ### Runner
 - [Awesome Runner](https://github.com/VladimirPirozhenko/AwesomeRunner) — A 3D endless runner game. ![GitHub Repo stars](https://img.shields.io/github/stars/VladimirPirozhenko/AwesomeRunner)
 
 ### Sandbox
-- [Minartis](https://github.com/akinmustafa/minartis) — A WIP first person sandbox game with modding support. ![GitHub Repo stars](https://img.shields.io/github/stars/akinmustafa/minartis)
 - [Minecraft Clone](https://github.com/stalomeow/MinecraftClone-Unity) — A 3D Minecraft clone. ![GitHub Repo stars](https://img.shields.io/github/stars/stalomeow/MinecraftClone-Unity)
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) — A Hogwarts (Harry Potter) open sandbox game. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenHogwarts/hogwarts)
 - [Voxel Game](https://github.com/savatkinv/VoxelGame) - 3D voxel game template. ![GitHub Repo stars](https://img.shields.io/github/stars/savatkinv/VoxelGame)
@@ -117,12 +121,6 @@ A curated list of useful open-source Unity games in alphabetical order.
 ### Virtual Reality
 - [BricksVR](https://github.com/d12/bricksvr-game) — A mirror of the BricksVR, multiplayer sandbox game available on Steam and the Oculus store. ![GitHub Repo stars](https://img.shields.io/github/stars/d12/bricksvr-game)
 - [MiniGolf](https://github.com/mmeyrat/MiniGolf-VR) — A virtual reality game of mini-golf made with Unity, intended for the Oculus Quest. ![GitHub Repo stars](https://img.shields.io/github/stars/mmeyrat/MiniGolf-VR)
-
-### Something Wrong?
-Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
-
-### Supporting
-Contributions and suggestions are welcomed; you can also leave a star if you appreciate the work done in this repository.
 
 ### License
 This repository is licensed under the [CC0-1.0](https://github.com/akinmustafa/awesome-unity-games/blob/main/LICENSE) license.
