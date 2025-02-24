@@ -89,6 +89,7 @@ Similar list for Godot Engine: [Awesome Godot Games](https://github.com/akinmust
 ### Simulation
 - [FyWorld](https://github.com/Fy-/FyWorld) — A discontinued base-building and simulation game. ![GitHub Repo stars](https://img.shields.io/github/stars/Fy-/FyWorld)
 - [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars) — Game-like agent based economy simulator. ![GitHub Repo stars](https://img.shields.io/github/stars/Nashet/Prosperity-Wars)
+- [OpenTS2](https://github.com/LazyDuchess/OpenTS2) — Open-source re-implementation of Sims 2 in Unity. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyDuchess/OpenTS2)
 
 ### Survival
 - [Star Travel](https://github.com/Victormaa/Star-Travel) — A 3D space themed open world survival game. ![GitHub Repo stars](https://img.shields.io/github/stars/Victormaa/Star-Travel)
